@@ -78,8 +78,8 @@
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	<assets>
-		<icon>resources/icon.png</icon>
-		<fanart>resources/fanart.jpg</fanart>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
 	</assets>
 
 	</extension>
